@@ -1,0 +1,40 @@
+#header{
+    margin: auto 10%;
+}
+.navbar-inverse{
+    background-color: #FFF;
+    border-color: #f55;
+}
+.navbar-nav>li>a:hover,.navbar-inverse .navbar-brand:hover{
+    color: #7c7c7c!important;
+}
+.nomargin,.nopaddin{
+    margin:0!important;
+    padding:0!important;
+}
+.hg100{
+   height:100px;
+}
+.contImages img{
+	width: 100%!important;
+	height: 400px!important;
+}
+.imgTitle{
+	position: absolute;
+	z-index: 2;
+	width: 730px;
+	top: 17px;
+	left: 170px;
+	color: #FFF;
+	font-size: 25pt;
+}
+.contOffers{
+	margin: 10px 10%;
+
+}
+.center{
+	text-align: center;
+}
+.margin10{
+	margin: auto 10%;
+}
